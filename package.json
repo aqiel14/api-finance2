@@ -1,0 +1,26 @@
+{
+  "name": "api-finance2",
+  "version": "1.0.0",
+  "description": "node api hosting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aqiel14/api-finance2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aqiel14/api-finance2/issues"
+  },
+  "homepage": "https://github.com/aqiel14/api-finance2#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "engines":{
+    "node" : "10.16.2"
+  }
+}
