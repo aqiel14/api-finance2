@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "namaBarang": "besi",
+        "jumlahBarang": "300",
+        "totalHarga": "1800000"
+    },
+    {
+        "id": "2",
+        "namaBarang": "kayu",
+        "jumlahBarang": "400",
+        "totalHarga": "1000000"
+    },
+    {
+        "id": "3",
+        "namaBarang": "asbes",
+        "jumlahBarang": "200",
+        "totalHarga": "1700000"
+    },
+    {
+        "id": "4",
+        "namaBarang": "plastik",
+        "jumlahBarang": "100",
+        "totalHarga": "500000"
+    }
+]

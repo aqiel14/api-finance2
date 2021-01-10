@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "tahun": "2010",
+        "bulan": "februari",
+        "total": "190000"
+    },
+    {
+        "id": "2",
+        "tahun": "2010",
+        "bulan": "maret",
+        "total": "200000"
+    },
+    {
+        "id": "3",
+        "tahun": "2010",
+        "bulan": "september",
+        "total": "23000"
+    },
+    {
+        "id": "4",
+        "tahun": "2010",
+        "bulan": "desember",
+        "total": "23000"
+    }
+]

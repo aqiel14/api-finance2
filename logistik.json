@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1",
+        "jumlahBiayaOperasi": "500000",
+        "jenisBiayaOperasi": "perbaikan mesin",
+        "kategori": "Maintenance"
+    },
+    {
+        "id": "2",
+        "jumlahBiayaOperasi": "200000",
+        "jenisBiayaOperasi": "pemasangan wifi",
+        "kategori": "Maintenance"
+    }
+]
